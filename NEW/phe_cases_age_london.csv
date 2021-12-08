@@ -1,3 +1,4 @@
+area_name,area_code,date,cases,rolling_sum,rolling_rate,age_band,age_lower,age_higher,population
 London,E12000007,02 12 2021,181,1203,201.9,0 - 4 years,0,4,595799
 London,E12000007,02 12 2021,730,4741,781.9,5 - 9 years,5,9,606333
 London,E12000007,02 12 2021,768,5544,1006.6,10 - 14 years,10,14,550753
