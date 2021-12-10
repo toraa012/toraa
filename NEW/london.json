@@ -184,6 +184,12 @@
         },
         {
           "type": "Polygon",
+          "arcs": [[-64, 98, -93, 99, -97, 100]],
+          "id": "Hackney",
+          "properties": { "GSSCode": "E09000012" }
+        },
+        {
+          "type": "Polygon",
           "arcs": [[-96, -89, -41, -61, 59, -59, -65, -101]],
           "id": "Haringey",
           "properties": { "GSSCode": "E09000014" }
@@ -202,9 +208,9 @@
         },
         {
           "type": "Polygon",
-          "arcs": [[[-64, 98, -93, 99, -97, 100, -85, -88, -98, -100, -92, 90, -90, 108]],
-          "id": "Hackney and City of London",
-          "properties": { "GSSCode": "E09000012" }
+          "arcs": [[-85, -88, -98, -100, -92, 90, -90, 108]],
+          "id": "City of London",
+          "properties": { "GSSCode": "E09000001" }
         }
       ]
     }
